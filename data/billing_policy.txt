@@ -1,0 +1,22 @@
+CloudSync Pro Billing Policy & Account Management
+
+1. Subscriptions and Tiers
+CloudSync Pro offers three main subscription tiers:
+- Developer Plan: Up to 5 GB storage, basic synchronization.
+- Pro Plan: Up to 500 GB storage, real-time replication, 99.9% SLA.
+- Enterprise Plan: Custom storage, dedicated clusters, multi-region replication.
+
+2. Payment Tier Changes
+Customers can upgrade or downgrade their tiers at any time via the Admin Console under Settings > Billing > Plan. Downgrades take effect at the end of the current billing cycle, while upgrades apply immediately and are prorated.
+
+3. Corporate Card Processing
+We support Visa, Mastercard, and American Express. In case of payment failures, the system will retry processing the corporate card 3 times over 7 days. If payment fails on the 4th attempt, the account will be placed in a "grace period" (restricted read-only access) for 14 days before termination.
+
+4. Direct Account Cancellation Steps
+To cancel your CloudSync Pro account:
+1. Log into the console as the Account Owner.
+2. Navigate to Admin Console > Billing > Close Account.
+3. Click "Cancel Subscription".
+4. Confirm by typing your organization name.
+5. All replicas will be scheduled for deletion 30 days after cancellation.
+*Note*: Refunds are not automatically issued, but you can file a request with billing within 48 hours of subscription renewal.
