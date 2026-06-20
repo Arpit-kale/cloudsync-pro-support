@@ -106,4 +106,4 @@ This project is licensed under the **MIT License** – see `LICENSE` for details
 
 ## 🙋‍♂️ Contact
 
-For questions or support, open an issue or reach out to the maintainer at `arpit@example.com`.
+For questions or support, open an issue or reach out to the maintainer at `arpitkale217@gmail.com`.
